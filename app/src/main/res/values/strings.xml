@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Community App Hub</string>
+    <string name="app_subtitle">منصة التطبيقات المجتمعية</string>
+    <string name="search_placeholder">ابحث عن تطبيق أو مطور...</string>
+    <string name="publish_app">نشر تطبيق جديد</string>
+    <string name="download_apk">تحميل APK</string>
+    <string name="install_apk">تثبيت التطبيق</string>
+    <string name="downloading">جاري التحميل...</string>
+    <string name="download_complete">اكتمل التحميل!</string>
+    <string name="publisher">الناشر:</string>
+    <string name="version">الإصدار:</string>
+    <string name="size">الحجم:</string>
+    <string name="category">الفئة:</string>
+</resources>

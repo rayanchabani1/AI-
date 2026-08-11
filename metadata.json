@@ -1,0 +1,6 @@
+{
+  "name": "Community App Hub",
+  "description": "A community-driven app store platform to upload, discover, search, and download Android apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
