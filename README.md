@@ -14,6 +14,13 @@
 
 ---
 
+## 💡 Important Notice
+
+> [!NOTE]
+> This repository is a fully **open-source source-code project**, not a pre-compiled ready-to-use APK binary. You are expected to inspect, customize, and build the application yourself directly from the source code in a professional setup.
+
+---
+
 ## ✨ Features
 
 * 🚀 **Smart Root Execution:** Execute shell commands and root scripts safely using dynamic AI reasoning.
