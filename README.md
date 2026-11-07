@@ -27,10 +27,10 @@
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/AI-Root.git](https://github.com/your-username/AI-Root.git)
+git clone [https://github.com/rayanchabani1/AI-Root.git](https://github.com/rayanchabani1/AI-Root.git)
 
 # Navigate into the project folder
 cd AI-Root
 
-# Build / Run (Modify based on your framework: Kotlin, Python, Godot, etc.)
+# Build / Run
 ./gradlew build
